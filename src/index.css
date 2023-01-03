@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+input{
+ height: 40px;
+ margin: 20px;
+}
+li{
+  margin: 20px;
+  font-size: large;
+}
